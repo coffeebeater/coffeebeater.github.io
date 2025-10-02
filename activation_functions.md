@@ -10,6 +10,12 @@ h(x) =
   \end{cases}
 $$
 
+```python
+import numpy as np
+
+(x > 0).astype(np.int)
+
+```
 ## シグモイド関数 sigmoid function
 
 $$
