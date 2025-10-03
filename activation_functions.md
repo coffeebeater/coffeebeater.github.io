@@ -16,8 +16,10 @@ import numpy as np
 (x > 0).astype(np.int)
 
 ```
-## シグモイド関数 sigmoid function
+## 標準シグモイド関数 sigmoid function
 
 $$
 h(x) = \frac{1}{1 + exp(-x)}
 $$
+
+[ロジスティック関数とシグモイド関数 - 北野坂備忘録](https://kenichia.hatenablog.com/entry/2017/03/04/122551)
